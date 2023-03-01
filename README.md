@@ -1,2 +1,2 @@
 # lasles
-https://github.com/yrysbu/lasles.git
+ https://yrysbu.github.io/lasles/
