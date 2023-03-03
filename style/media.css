@@ -147,8 +147,7 @@
 }
 @media (max-width: 720px) {
   .container {
-    max-width: 380px;
-    padding: 0 10px;
+    padding: 0 20px;
   }
   .col-4 {
     width: 100%;
